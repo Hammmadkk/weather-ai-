@@ -1,0 +1,10 @@
+langchain
+langchain_openai
+langchain_community
+httpx==0.27.0
+python-dotenv
+geopy
+fastapi
+uvicorn
+pypdf
+beautifulsoup4
